@@ -29,7 +29,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+In this class, I learned how to find out my own BMI. and see your own BMI as well Which can use the knowledge of coding like this to be further developed in medical or other fields
 ```
 
 
